@@ -14,10 +14,13 @@
             <tbody>
             {% for article in articles %}
                 <tr>
-                    <td>{{ article }}</td>
+                    <td>{{ article.title }}</td>
                     <td>
-                        <a href="/article/1" class="btn btn-dark">
+                        <a href="/article/{{ article.id }}" class="btn btn-dark">
                             Show
+                        </a>
+                        <a href="#" class="btn btn-danger" data-id="{{ article.id }}">
+                            Delete
                         </a>
                     </td>
                 </tr>

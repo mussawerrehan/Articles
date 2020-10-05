@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="016d560f-3d55-43fc-980f-db4f4e0b3388" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/articles/new.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/articles/show.html.twig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/inc/navbar.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601882305890</updated>
-      <workItem from="1601882306904" duration="6612000" />
+      <workItem from="1601882306904" duration="13231000" />
     </task>
     <servers />
   </component>
