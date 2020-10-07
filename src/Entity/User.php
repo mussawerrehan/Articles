@@ -49,13 +49,13 @@ class User implements UserInterface
     private $password;
 
     /**
-     * @ORM\Column(type="json")
+     * @ORM\Column(type="array")
      */
     private $roles;
 
     public function __construct()
     {
-        $this->roles = json_encode("ROLE_USER");
+        $this->roles = array('ROLE_USER');
     }
 
     // other properties and methods
