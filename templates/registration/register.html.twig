@@ -1,0 +1,34 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello RegistrationController!{% endblock %}
+
+{% block body %}
+    <div class="container register-form">
+        <div class="form">
+            <div class="form-content">
+                {{ form_start(form) }}
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            {{ form_row(form.email) }}
+                        </div>
+                        <div class="form-group">
+                            {{ form_row(form.username) }}
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            {{ form_row(form.plainPassword.first) }}
+                        </div>
+                        <div class="form-group">
+                            {{ form_row(form.plainPassword.second) }}
+                        </div>
+                    </div>
+                </div>
+                    <button type="submit" class="btnSubmit">Register!</button>
+                {{ form_end(form) }}
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
