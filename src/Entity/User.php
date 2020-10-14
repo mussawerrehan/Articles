@@ -49,9 +49,14 @@ class User implements UserInterface
     private $password;
 
     /**
-     * @ORM\Column(type="array")
+     * @ORM\Column(type="json")
      */
     private $roles;
+
+    /**
+     * @ORM\Column(type="string", length=255)
+     */
+    private $fristName;
 
     public function __construct()
     {
@@ -114,5 +119,17 @@ class User implements UserInterface
 
     public function eraseCredentials()
     {
+    }
+
+    public function getFristName(): ?string
+    {
+        return $this->fristName;
+    }
+
+    public function setFristName(string $fristName): self
+    {
+        $this->fristName = $fristName;
+
+        return $this;
     }
 }

@@ -2,13 +2,145 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="016d560f-3d55-43fc-980f-db4f4e0b3388" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/MessageGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/.env.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/.idea/Sblylo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/bin/phpunit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/bundles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/cache.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/dev/debug.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/dev/monolog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/dev/web_profiler.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/doctrine.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/doctrine_migrations.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/easy_admin.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/mailer.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/prod/deprecations.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/prod/doctrine.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/prod/monolog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/prod/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/security.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/sensio_framework_extra.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/test/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/test/monolog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/test/twig.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/test/validator.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/test/web_profiler.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/translation.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/twig.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/packages/validator.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/preload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/routes.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/routes/annotations.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/routes/dev/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/routes/dev/web_profiler.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/routes/easy_admin.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/config/services.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/migrations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/migrations/Version20201009064427.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/migrations/Version20201009064518.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/migrations/Version20201009064902.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/migrations/Version20201009064914.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Controller/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Controller/SecurityController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Entity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Entity/Category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Entity/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Entity/Tag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Entity/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Repository/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Repository/CategoryRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Repository/ProductRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Repository/TagRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Repository/UserRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/src/Security/CustomAuthAuthenticator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/symfony.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/templates/base.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/templates/security/login.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/tests/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/Sblylo/translations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/.env.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/.idea/space.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/bin/phpunit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/bundles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/cache.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/dev/debug.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/dev/monolog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/dev/web_profiler.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/doctrine.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/doctrine_migrations.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/mailer.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/prod/deprecations.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/prod/doctrine.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/prod/monolog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/prod/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/routing.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/security.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/sensio_framework_extra.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/test/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/test/monolog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/test/twig.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/test/validator.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/test/web_profiler.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/translation.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/twig.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/packages/validator.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/preload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/routes.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/routes/annotations.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/routes/dev/framework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/routes/dev/web_profiler.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/config/services.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/migrations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/migrations/Version20201014073300.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/src/Controller/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/src/DataFixtures/AppFixtures.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/src/DataFixtures/BaseFixture.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/src/DataFixtures/UserFixtures.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/src/Entity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/src/Entity/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/src/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/src/Repository/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/src/Repository/UserRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/symfony.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/templates/base.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/tests/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space/translations/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/Version20201006132244.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/Version20201006132926.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/RegistrationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/RegistrationController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/inc/navbar.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/inc/navbar.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/security/login.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/security/login.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +298,10 @@
       <workItem from="1601974372014" duration="4806000" />
       <workItem from="1601987122927" duration="4083000" />
       <workItem from="1602055677934" duration="8528000" />
+      <workItem from="1602496161658" duration="16000" />
+      <workItem from="1602499183895" duration="1189000" />
+      <workItem from="1602591619838" duration="2531000" />
+      <workItem from="1602672110344" duration="787000" />
     </task>
     <servers />
   </component>
